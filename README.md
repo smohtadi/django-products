@@ -3,7 +3,7 @@
 ## Installing
 1. Create the virtual environment.
 ```
-> python -m venv venv
+> python3 -m venv venv
 ```
 
 2. Activate the virtual environment.
@@ -17,7 +17,7 @@
 ```
 4. Run the application.
 ```
-> python manage.py runserver`
+> python manage.py runserver
 ```
 5. The application will run on `http://127.0.0.1:8000/`. Navigate to `http://127.0.0.1:8000/admin/` to access the admin site. The username and password are `admin`.
 
