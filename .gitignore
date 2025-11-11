@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / compiled files
+*.pyc
+__pycache__/
+
+# Environments
+venv/
+env/
+.env/
+.venv/
+
+# Database
+# db.sqlite3
+
+# Media and static files
+media/
+static_root/
+
+# Sensitive configuration
+.env
+*.ini
+*.log
+local_settings.py
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Temporary files
+*~
+*.bak
+
+product/fixtures/
