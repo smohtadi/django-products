@@ -22,8 +22,10 @@
 5. The application will run on `http://127.0.0.1:8000/`. Navigate to `http://127.0.0.1:8000/admin/` to access the admin site. The username and password are `admin`.
 
 ## Techstack
-**Bakend:** Django, Django REST Framework
-**Frontend:** React, Vite
+**Bakend:** Django, Django REST Framework.\
+**Frontend:** React, Vite.
+
+Find the frontend source at: `https://github.com/smohtadi/react-products`
 
 
 ## Asumptions
